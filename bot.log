@@ -1,0 +1,21 @@
+2024-12-17 21:00:22,644 - Bot started.
+2024-12-17 21:00:22,927 - Connected to Base Mainnet
+2024-12-17 21:00:24,638 - Error fetching LP token balance: ('execution reverted', 'no data')
+2024-12-17 21:00:25,111 - Fetched token price: $0.9692
+2024-12-17 21:00:25,112 - Fetched token price: 0.9692
+2024-12-17 21:00:25,765 - Error fetching pool reserves: ('execution reverted', 'no data')
+2024-12-17 21:11:00,512 - Bot started.
+2024-12-17 21:11:00,921 - Connected to Base Mainnet
+2024-12-17 21:11:08,045 - Error fetching LP token balance: ('execution reverted', 'no data')
+2024-12-17 21:11:19,192 - Error during monitoring: 
+2024-12-18 22:35:21,102 - Bot started.
+2024-12-18 22:35:21,298 - Connected to Base Mainnet
+2024-12-18 22:35:22,227 - Error fetching LP token balance: ('execution reverted', 'no data')
+2024-12-18 22:35:22,766 - Fetched token price: $0.9787
+2024-12-18 22:35:22,766 - Fetched token price: 0.9787
+2024-12-22 21:26:23,023 - Bot started.
+2024-12-22 21:26:23,402 - Connected to Base Mainnet
+2024-12-22 21:26:24,418 - Error fetching LP token balance: ('execution reverted', 'no data')
+2024-12-22 21:26:24,994 - Fetched token price: $0.9727
+2024-12-22 21:26:24,994 - Fetched token price: 0.9727
+2024-12-22 21:26:25,914 - Error fetching pool reserves: ('execution reverted', 'no data')
